@@ -1,5 +1,6 @@
-# 🚀 GetMyAPI
 
+# 🚀 GetMyAPI
+<img width="1579" height="1095" alt="Captura de pantalla 2025-12-23 084830" src="https://github.com/user-attachments/assets/81dd99a4-4132-4e09-b199-6c3ba14c4470" />
 **GetMyAPI** is a high-performance, minimalist API client designed for developers who value speed and simplicity. Built with **Rust** and **Tauri**, it provides a native desktop experience with a fraction of the memory footprint of other tools.
 
 ---
